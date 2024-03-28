@@ -107,5 +107,4 @@ Mac                      24 mins             ███████████�
 
   <img align="left" alt="ol0o0lo's GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=ol0o0lo&theme=high-contrast&hide_title=flase&radius=16" />
 
-</details>
-# ol0o0lo
+</details>ß
