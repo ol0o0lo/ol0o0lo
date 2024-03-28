@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![暗色](./dist/github-contribution-grid-snake-dark.svg)
-![亮色](./dist/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg)
 
 ### Languages and Tools:
 
