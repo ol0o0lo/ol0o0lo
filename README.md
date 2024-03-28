@@ -18,7 +18,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 <br />
@@ -29,14 +28,8 @@
 [//]: # (### 我的打卡)
 
 
-![ol0o0lo's GitHub stats](https://readme-stats.l0o0l.cn/api/?username=ol0o0lo&theme=graywhite&hide=prs,issues,contribs&locale=cn)
-
-![ol0o0lo's GitHub stats](https://readme-stats.l0o0l.cn/api/top-langs?username=ol0o0lo&theme=graywhite&hide=css&hide_progress=true&locale=cn)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ol0o0lo&theme=transparent&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
-<details>
-  <summary>:zap: GitHub WakaTime</summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-73-blue)
@@ -104,6 +97,8 @@ Mac                      2 hrs 8 mins        ███████████�
 
 <!--END_SECTION:waka-->
 
+<details>
+  <summary>:zap: GitHub WakaTime</summary>
 
 </details>
 
@@ -111,6 +106,11 @@ Mac                      2 hrs 8 mins        ███████████�
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ol0o0lo's GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=ol0o0lo&theme=high-contrast&hide_title=flase&radius=16" />
+[//]: # (![ol0o0lo's GitHub stats]&#40;https://readme-stats.l0o0l.cn/api/top-langs?username=ol0o0lo&theme=graywhite&hide=css&hide_progress=true&locale=cn&#41;)
 
-</details>ß
+[//]: # ()
+[//]: # (![ol0o0lo's GitHub stats]&#40;https://readme-stats.l0o0l.cn/api/?username=ol0o0lo&theme=graywhite&hide=prs,issues,contribs&locale=cn&#41;)
+
+  <img alt="ol0o0lo's GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=ol0o0lo&theme=high-contrast&hide_title=flase&radius=16" />
+
+</details>
