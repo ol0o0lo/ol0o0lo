@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![暗色](https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg)
+[//]: # (![暗色]&#40;https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg&#41;)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### Languages and Tools:
 
