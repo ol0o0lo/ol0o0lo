@@ -139,7 +139,10 @@ Mac                      2 hrs 8 mins        ███████████�
     <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
-
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
 </table>
 
 [//]: # (<details>)
