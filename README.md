@@ -16,7 +16,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/assets/images/jobs.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是 l0o0l。</p>
 <p>&emsp;&emsp;我的名字像一个表情符号，如呐喊画作一样。</p>
