@@ -16,7 +16,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是 l0o0l。</p>
 <p>&emsp;&emsp;我的名字像一个表情符号，如呐喊画作一样。</p>
@@ -119,6 +119,32 @@ Mac                      2 hrs 8 mins        ███████████�
 
 
 <!--END_SECTION:waka-->
+
+
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+
+</table>
 
 [//]: # (<details>)
 
