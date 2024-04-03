@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0081FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Always+learning+new+things%EF%BC%81)
+
 [//]: # (![暗色]&#40;https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg&#41;)
 
 [//]: # (![暗色]&#40;https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg&#41;)
@@ -19,7 +21,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是 l0o0l。</p>
-<p>&emsp;&emsp;我的名字像一个表情符号，如呐喊画作一样。</p>
+<p>&emsp;&emsp;名字像一个表情符号，如呐喊画作一样。</p>
 <p>&emsp;&emsp;热爱编程、阅读、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
