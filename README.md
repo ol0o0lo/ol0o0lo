@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 158.9 kB Used in GitHub's Storage 
+> 📦 158.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
