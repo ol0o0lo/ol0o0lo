@@ -6,8 +6,6 @@
 
 [//]: # (![暗色]&#40;https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg&#41;)
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo@output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo@output/github-contribution-grid-snake.svg" />
@@ -162,7 +160,7 @@ Mac                      18 hrs 36 mins      ███████████�
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
 [//]: # (![ol0o0lo's GitHub stats]&#40;https://readme-stats.l0o0l.cn/api/top-langs?username=ol0o0lo&theme=graywhite&hide=css&hide_progress=true&locale=cn&#41;)
 
@@ -170,5 +168,12 @@ Mac                      18 hrs 36 mins      ███████████�
 [//]: # (![ol0o0lo's GitHub stats]&#40;https://readme-stats.l0o0l.cn/api/?username=ol0o0lo&theme=graywhite&hide=prs,issues,contribs&locale=cn&#41;)
 
   <img alt="ol0o0lo's GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=ol0o0lo&theme=high-contrast&hide_title=flase&radius=16" />
+
+</details>
+
+<details>
+  <summary>我正在听</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dufxqboi6rzm4vnu3o5zbsa7zq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
