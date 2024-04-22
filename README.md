@@ -6,11 +6,7 @@
 
 [//]: # (![暗色]&#40;https://raw.githubusercontent.com/ol0o0lo/ol0o0lo/output/github-contribution-grid-snake-dark.svg&#41;)
 
-[![Spotify](https://novatorem-git-main-ol0o0los-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31dufxqboi6rzm4vnu3o5zbsa7zq)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dufxqboi6rzm4vnu3o5zbsa7zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dufxqboi6rzm4vnu3o5zbsa7zq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ol0o0lo/ol0o0lo@output/github-contribution-grid-snake-dark.svg" />
