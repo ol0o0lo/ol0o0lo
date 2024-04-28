@@ -12,13 +12,14 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+
 <table>
 
 <tr><td>
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31dufxqboi6rzm4vnu3o5zbsa7zq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" />
 
 <p>&emsp;&emsp;嗨，你好，我是 l0o0l。</p>
 <p>&emsp;&emsp;名字像一个表情符号，如呐喊画作一样。</p>
