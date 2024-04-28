@@ -22,7 +22,7 @@
 <img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31dufxqboi6rzm4vnu3o5zbsa7zq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" />
 
 <p>&emsp;&emsp;嗨，你好，我是 l0o0l。</p>
-<p>&emsp;&emsp;名字像一个表情符号，如呐喊画作一样。</p>
+<p>&emsp;&emsp;名字像一个表情符号，如呐喊画作一样😱。</p>
 <p>&emsp;&emsp;热爱编程、阅读、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
