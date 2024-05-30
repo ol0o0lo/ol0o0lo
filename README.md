@@ -62,9 +62,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 189.6 kB Used in GitHub's Storage 
- > 
-> 🏆 178 Contributions in the Year 2024
+> 📦 189.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
