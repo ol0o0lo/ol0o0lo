@@ -19,7 +19,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31dufxqboi6rzm4vnu3o5zbsa7zq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" />
+<img align="right" width="250" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317lj6ke5g24u5s4ltvl352v5daa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" />
 
 <p>&emsp;&emsp;嗨，你好，我是 l0o0l。</p>
 <p>&emsp;&emsp;名字像一个表情符号，如呐喊画作一样😱。</p>
