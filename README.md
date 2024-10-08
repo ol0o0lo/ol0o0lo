@@ -64,6 +64,8 @@
 
 > 📦 193.1 kB Used in GitHub's Storage 
  > 
+> 🏆 218 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -97,19 +99,16 @@ Sunday                   69 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     17 mins             ███████████████████████░░   92.59 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-HbuilderX                17 mins             ███████████████████████░░   92.59 % 
-PyCharm                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Uhome-frontend-insider   17 mins             ███████████████████████░░   92.59 % 
-motorcycle_mochao        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
