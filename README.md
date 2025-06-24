@@ -56,7 +56,7 @@
 [//]: # (### 我的打卡)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ol0o0lo&theme=transparent&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-blond-iota.vercel.app/?user=ol0o0lo&theme=transparent&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 <!--START_SECTION:waka-->
