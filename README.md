@@ -38,6 +38,8 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/36890781/' target='_blank'>第一性原理</a> 🌟🌟🌟🌟🌟 力荐- 2025-08-02
+* <a href='https://book.douban.com/subject/7163250/' target='_blank'>明朝那些事</a> 🌟🌟🌟🌟🌟 力荐- 2025-07-07
 * <a href='https://book.douban.com/subject/6021440/' target='_blank'>黑客与画家</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
 * <a href='https://book.douban.com/subject/26585065/' target='_blank'>亲密关系</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
 * <a href='https://music.douban.com/subject/30187654/' target='_blank'>暗网</a> 🌟🌟🌟🌟🌟 力荐- 2019-11-19
