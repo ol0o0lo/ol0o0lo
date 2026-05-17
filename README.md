@@ -74,56 +74,6 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-🌆 Daytime                574 commits         ███████████░░░░░░░░░░░░░░   45.74 % 
-🌃 Evening                366 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Tuesday                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Wednesday                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Thursday                 246 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Saturday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   29 hrs 25 mins      ████████████████░░░░░░░░░   64.03 % 
-Other                    4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Markdown                 4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Bash                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-
-🔥 Editors: 
-PyCharm                  25 hrs 29 mins      ██████████████░░░░░░░░░░░   55.48 % 
-Unknown Editor           20 hrs 4 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
-Chrome                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-DockerDesktop            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-🐱‍💻 Projects: 
-app-mgmt                 16 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   35.42 % 
-linkcloud-space          16 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
-cw-publish               12 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-cw-chaos-backend         18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Uhome                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-
-💻 Operating System: 
-Mac                      45 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
