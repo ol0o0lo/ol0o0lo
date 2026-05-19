@@ -74,6 +74,57 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+🌆 Daytime                574 commits         ███████████░░░░░░░░░░░░░░   45.74 % 
+🌃 Evening                366 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Tuesday                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Wednesday                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Thursday                 246 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Saturday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   38 hrs 51 mins      █████████████████░░░░░░░░   69.14 % 
+Other                    7 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Markdown                 4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+TOML                     1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Bash                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+
+🔥 Editors: 
+Claude Code              22 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   40.73 % 
+PyCharm                  22 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   40.08 % 
+Chrome                   5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+WeCom                    2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+iTerm2                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+
+🐱‍💻 Projects: 
+app-mgmt                 18 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   32.98 % 
+cw-publish               12 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+linkcloud-space          12 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+copilot                  5 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+applications             3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+
+💻 Operating System: 
+Mac                      56 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
