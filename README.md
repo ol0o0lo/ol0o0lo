@@ -74,57 +74,6 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-🌆 Daytime                639 commits         ███████████░░░░░░░░░░░░░░   45.38 % 
-🌃 Evening                425 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
-🌙 Night                  235 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Tuesday                  248 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Wednesday                118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Thursday                 250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Saturday                 274 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Sunday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    28 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.09 % 
-Python                   27 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.20 % 
-Markdown                 5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-JavaScript               2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JSON                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-
-🔥 Editors: 
-Chrome                   19 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-PyCharm                  13 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Claude Code              12 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-iTerm2                   8 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-WeCom                    8 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-
-🐱‍💻 Projects: 
-cw-publish               11 hrs 26 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-linkcloud-space          10 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-django-ninja             7 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-django-base-site         7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-chatgpt-codex-connector  6 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-
-💻 Operating System: 
-Mac                      70 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
