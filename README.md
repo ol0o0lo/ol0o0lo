@@ -74,57 +74,6 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-🌆 Daytime                704 commits         ███████████░░░░░░░░░░░░░░   42.93 % 
-🌃 Evening                520 commits         ████████░░░░░░░░░░░░░░░░░   31.71 % 
-🌙 Night                  278 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Tuesday                  273 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Wednesday                136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Thursday                 258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Saturday                 352 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Sunday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   30 hrs 2 mins       ████████████░░░░░░░░░░░░░   49.17 % 
-Other                    17 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Markdown                 7 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-YAML                     3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-TOML                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-
-🔥 Editors: 
-Chrome                   17 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-PyCharm                  10 hrs 47 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-VS Code                  10 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-WeCom                    8 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Codex CLI                4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-
-🐱‍💻 Projects: 
-linkcloud-space          10 hrs 12 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-OpenSpec                 9 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-cw-publish               7 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-petdex                   6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-codex                    4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-
-💻 Operating System: 
-Mac                      61 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
