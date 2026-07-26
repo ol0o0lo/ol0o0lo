@@ -101,28 +101,28 @@ Sunday                   548 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   30.84 % 
-TypeScript               15 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-Other                    12 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Markdown                 11 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-HTML                     1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                   19 hrs              ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+TypeScript               15 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Other                    12 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Markdown                 8 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Fork                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   37.81 % 
-VS Code                  22 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   33.29 % 
-WeCom                    8 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-PyCharm                  7 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Sourcetree               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Chrome                   29 hrs 9 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
+VS Code                  17 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+WeCom                    7 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+PyCharm                  6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Sourcetree               1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🐱‍💻 Projects: 
-chatgpt-plus-tutorial#met10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-cw-publish               9 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-skills                   7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Codex-Dream-Skin         6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-bk-sops                  6 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+chatgpt-plus-tutorial#met10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+cw-publish               9 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Codex-Dream-Skin         6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+bk-sops                  6 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+moniqi                   4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 💻 Operating System: 
-Mac                      66 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      64 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
