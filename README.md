@@ -62,6 +62,8 @@
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-624%20hrs%2014%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 223.6 kB Used in GitHub's Storage 
@@ -123,6 +125,29 @@ moniqi                   4 hrs 24 mins       ██░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      64 hrs 1 min        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 37 hrs 47 mins (59.02%)
+
+✍️ 9,600 lines written by AI, 1,081 lines written by hand (89.88% AI-written)
+
+🔤 360,399,108 Input Tokens, 2,876,876 Output Tokens
+
+💵 $1870.97 Estimated AI Cost This Week
+
+🧠 95 AI Sessions, 605 AI Prompts
+
+GPT                      11,574 lines        █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.88% of written lines came from AI
+📚 Verbose Prompter — average 6,358 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 12.59% of changed lines were hand-edited
 ```
 
 
