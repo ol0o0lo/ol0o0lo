@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-639%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-647%20hrs%2037%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,51 +103,51 @@ Sunday                   548 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-TypeScript               14 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-Vue                      6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Other                    6 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Markdown                 4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+TypeScript               14 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Vue                      12 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Python                   9 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+JavaScript               4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Other                    4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   39.17 % 
-VS Code                  19 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   34.68 % 
-WeCom                    7 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-PyCharm                  4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Sourcetree               55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+VS Code                  23 hrs 8 mins       ███████████░░░░░░░░░░░░░░   43.22 % 
+Chrome                   18 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.17 % 
+WeCom                    6 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+PyCharm                  3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Sourcetree               58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 Projects: 
-app-mgmt                 11 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-chatgpt-plus-tutorial#met10 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-cw-publish               5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-moniqi                   4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-feature-pilot            4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+app-mgmt                 18 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.31 % 
+chatgpt-plus-tutorial#met9 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+moniqi                   4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+cw-publish               4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+telegram                 3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 💻 Operating System: 
-Mac                      54 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      53 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 23 mins (64.38%)
+⏱ AI Coding Time: 36 hrs 19 mins (67.82%)
 
-✍️ 14,515 lines written by AI, 217 lines written by hand (98.53% AI-written)
+✍️ 20,057 lines written by AI, 16 lines written by hand (99.92% AI-written)
 
-🔤 493,932,466 Input Tokens, 2,658,186 Output Tokens
+🔤 609,234,946 Input Tokens, 2,598,454 Output Tokens
 
-💵 $2414.70 Estimated AI Cost This Week
+💵 $2961.31 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 519 AI Prompts
+🧠 65 AI Sessions, 507 AI Prompts
 
-GPT                      17,275 lines        █████████████████████████   99.94 % 
-Vscode-Wakatime          10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GPT                      22,860 lines        ████████████████████████░   97.92 % 
+Vscode-Wakatime          486 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.53% of written lines came from AI
-📄 Detailed Prompter — average 1,107 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 1,131 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 
