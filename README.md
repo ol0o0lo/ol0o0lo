@@ -103,51 +103,51 @@ Sunday                   548 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      16 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   37.98 % 
-JavaScript               9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Python                   7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Other                    4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Markdown                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Vue                      16 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   34.41 % 
+Python                   10 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+JavaScript               9 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Other                    7 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Markdown                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 14 mins      ████████████░░░░░░░░░░░░░   49.85 % 
-WeCom                    8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Chrome                   6 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-PyCharm                  4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Sourcetree               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+VS Code                  22 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.55 % 
+WeCom                    10 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Chrome                   8 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+PyCharm                  4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Sourcetree               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-app-mgmt                 20 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.00 % 
-bk-sops location from his9 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-cw-publish               7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-codex-provider-sync      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-CertificateDownloader    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+app-mgmt                 21 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.03 % 
+bk-sops location from his16 hrs              ████████░░░░░░░░░░░░░░░░░   32.98 % 
+cw-publish               7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+codex-provider-sync      2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+cc-switch                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      42 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 32 mins (81.1%)
+⏱ AI Coding Time: 38 hrs 2 mins (78.34%)
 
-✍️ 21,761 lines written by AI, 19 lines written by hand (99.91% AI-written)
+✍️ 21,672 lines written by AI, 49 lines written by hand (99.77% AI-written)
 
-🔤 693,542,155 Input Tokens, 2,876,104 Output Tokens
+🔤 726,283,485 Input Tokens, 3,029,777 Output Tokens
 
-💵 $3152.81 Estimated AI Cost This Week
+💵 $3318.11 Estimated AI Cost This Week
 
-🧠 87 AI Sessions, 489 AI Prompts
+🧠 98 AI Sessions, 570 AI Prompts
 
-GPT                      24,835 lines        ████████████████████████░   97.66 % 
-Vscode-Wakatime          596 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+GPT                      24,566 lines        ████████████████████████░   97.63 % 
+Vscode-Wakatime          596 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
+🤖 AI-Driven — 99.77% of written lines came from AI
+📝 Concise Prompter — average 400 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 
