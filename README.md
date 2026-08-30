@@ -103,51 +103,51 @@ Sunday                   551 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.08 % 
-Markdown                 17 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-TypeScript               15 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Other                    8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Fork                     4 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Python                   24 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Markdown                 17 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+TypeScript               13 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Other                    8 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Fork                     5 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🔥 Editors: 
-Codex Vscode             43 hrs 8 mins       ██████████████░░░░░░░░░░░   57.82 % 
-Chrome                   15 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-WeCom                    8 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-PyCharm                  4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Spotify                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Codex Vscode             45 hrs 9 mins       ██████████████░░░░░░░░░░░   57.66 % 
+Chrome                   16 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+WeCom                    9 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+PyCharm                  4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Spotify                  49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-frpc-desktop             18 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-cw-publish               14 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-quotabar                 9 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-ant-design               9 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-linkcloud-space          8 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+frpc-desktop             18 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+ppt-master               18 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+cw-publish               14 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+linkcloud-space          9 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+quotabar                 9 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 
 💻 Operating System: 
-Mac                      74 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      78 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 62 hrs 30 mins (83.77%)
+⏱ AI Coding Time: 66 hrs 10 mins (84.48%)
 
-✍️ 49,589 lines written by AI, 686 lines written by hand (98.64% AI-written)
+✍️ 62,663 lines written by AI, 672 lines written by hand (98.94% AI-written)
 
-🔤 162,825,907 Input Tokens, 11,788,436 Output Tokens
+🔤 167,337,272 Input Tokens, 11,962,748 Output Tokens
 
-💵 $1810.35 Estimated AI Cost This Week
+💵 $1866.06 Estimated AI Cost This Week
 
-🧠 98 AI Sessions, 918 AI Prompts
+🧠 123 AI Sessions, 1020 AI Prompts
 
-GPT                      53,128 lines        █████████████████████████   99.98 % 
-Codex-Vscode             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GPT                      66,262 lines        █████████████████████████   99.76 % 
+Codex-Vscode             160 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.64% of written lines came from AI
-📄 Detailed Prompter — average 1,426 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.86% of changed lines were hand-edited
+🤖 AI-Driven — 98.94% of written lines came from AI
+📚 Verbose Prompter — average 2,982 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.24% of changed lines were hand-edited
 ```
 
 
