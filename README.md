@@ -103,52 +103,52 @@ Sunday                   555 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Python                   13 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Vue                      12 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Other                    10 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Markdown                 6 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+TypeScript               14 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Vue                      13 hrs 20 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Other                    11 hrs 32 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Python                   11 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Markdown                 11 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 
 🔥 Editors: 
-Codex Vscode             34 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.71 % 
-Chrome                   21 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-WeCom                    8 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-PyCharm                  4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Terminal                 1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Codex Vscode             33 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.63 % 
+Chrome                   23 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   31.55 % 
+WeCom                    9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+PyCharm                  5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Terminal                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-ant-design-pro           13 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-frp                      12 hrs 24 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-bk-sops                  11 hrs 48 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-cw-publish               10 hrs 16 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-codex-provider-sync      7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+bk-sops                  16 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+ant-design-pro           13 hrs 9 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+frp                      10 hrs 11 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+cw-publish               9 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+codex-provider-sync      7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 💻 Operating System: 
-Mac                      71 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      75 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 27 mins (80.41%)
+⏱ AI Coding Time: 58 hrs 58 mins (78.48%)
 
-✍️ 44,478 lines written by AI, 953 lines written by hand (97.9% AI-written)
+✍️ 47,060 lines written by AI, 1,014 lines written by hand (97.89% AI-written)
 
-🔤 88,844,094 Input Tokens, 6,219,730 Output Tokens
+🔤 82,830,376 Input Tokens, 6,201,491 Output Tokens
 
-💵 $1124.35 Estimated AI Cost This Week
+💵 $1030.85 Estimated AI Cost This Week
 
-🧠 161 AI Sessions, 932 AI Prompts
+🧠 169 AI Sessions, 964 AI Prompts
 
-GPT                      51,848 lines        █████████████████████████   99.99 % 
+GPT                      54,454 lines        █████████████████████████   99.99 % 
 Codex-Vscode             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.9% of written lines came from AI
-📚 Verbose Prompter — average 2,505 characters per prompt
+🤖 AI-Driven — 97.89% of written lines came from AI
+📚 Verbose Prompter — average 2,485 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.34% of changed lines were hand-edited
+🚀 High AI Trust — 5.21% of changed lines were hand-edited
 ```
 
 
