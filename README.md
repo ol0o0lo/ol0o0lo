@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C070%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C071%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,51 +103,51 @@ Sunday                   556 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      13 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Python                   11 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Other                    5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-JavaScript               4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Markdown                 3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Python                   12 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Vue                      11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+Other                    4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+JavaScript               3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-Codex Vscode             19 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.54 % 
-Chrome                   11 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-WeCom                    5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-PyCharm                  3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Sourcetree               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Codex Vscode             18 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.64 % 
+Chrome                   11 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   30.26 % 
+WeCom                    3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+PyCharm                  2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Sourcetree               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🐱‍💻 Projects: 
-chrome-devtools-mcp      16 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   39.65 % 
-cw-publish               9 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-webcodex                 6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-ipatool                  5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-linkcloud-space          1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+chrome-devtools-mcp      16 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.23 % 
+cw-publish               7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+ipatool                  5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+airport-recommendations-22 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+linkcloud-space          1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 💻 Operating System: 
-Mac                      42 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 49 mins (72.36%)
+⏱ AI Coding Time: 26 hrs 48 mins (70.22%)
 
-✍️ 16,932 lines written by AI, 60 lines written by hand (99.65% AI-written)
+✍️ 11,415 lines written by AI, 53 lines written by hand (99.54% AI-written)
 
-🔤 143,751,090 Input Tokens, 2,651,390 Output Tokens
+🔤 75,332,267 Input Tokens, 2,342,318 Output Tokens
 
-💵 $1157.96 Estimated AI Cost This Week
+💵 $404.32 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 322 AI Prompts
+🧠 60 AI Sessions, 256 AI Prompts
 
-GPT                      18,867 lines        █████████████████████████   99.94 % 
-Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GPT                      13,305 lines        █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📄 Detailed Prompter — average 1,455 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.8% of changed lines were hand-edited
+🤖 AI-Driven — 99.54% of written lines came from AI
+📚 Verbose Prompter — average 1,845 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.0% of changed lines were hand-edited
 ```
 
 
