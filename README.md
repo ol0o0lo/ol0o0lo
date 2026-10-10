@@ -66,9 +66,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 227.6 kB Used in GitHub's Storage 
- > 
-> 🏆 801 Contributions in the Year 2026
+> 📦 227.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
