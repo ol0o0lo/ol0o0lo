@@ -103,51 +103,51 @@ Sunday                   556 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     8 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Other                    7 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Python                   6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Vue                      4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-JavaScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Fork                     8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+Other                    7 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Python                   6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Vue                      4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+JavaScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 15 mins      ███████████░░░░░░░░░░░░░░   45.57 % 
-Chrome                   8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-PyCharm                  3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-WeCom                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Sourcetree               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Codex Vscode             15 hrs              ███████████░░░░░░░░░░░░░░   45.72 % 
+Chrome                   9 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+PyCharm                  3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+WeCom                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Sourcetree               1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🐱‍💻 Projects: 
-apollo                   8 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-cw-publish               6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-figma-mcp-bridge         5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-linkcloud-space          3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-gitlab-reviewer          3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+apollo                   8 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+figma-mcp-bridge         7 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+cw-publish               6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+linkcloud-space          3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+gitlab-reviewer          3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 💻 Operating System: 
-Mac                      31 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 12 mins (55.0%)
+⏱ AI Coding Time: 18 hrs 7 mins (55.18%)
 
-✍️ 7,532 lines written by AI, 775 lines written by hand (90.67% AI-written)
+✍️ 7,857 lines written by AI, 775 lines written by hand (91.02% AI-written)
 
-🔤 26,659,330 Input Tokens, 1,835,817 Output Tokens
+🔤 27,010,668 Input Tokens, 1,894,978 Output Tokens
 
-💵 $251.89 Estimated AI Cost This Week
+💵 $255.59 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 215 AI Prompts
+🧠 51 AI Sessions, 231 AI Prompts
 
-GPT                      7,931 lines         █████████████████████████   100.00 % 
+GPT                      8,260 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.67% of written lines came from AI
-📄 Detailed Prompter — average 997 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 10.47% of changed lines were hand-edited
+🤖 AI-Driven — 91.02% of written lines came from AI
+📄 Detailed Prompter — average 943 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 10.09% of changed lines were hand-edited
 ```
 
 
