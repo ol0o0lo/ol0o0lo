@@ -103,51 +103,51 @@ Sunday                   556 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Fork                     14 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   30.78 % 
-Other                    12 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-Python                   9 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Vue                      6 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JavaScript               2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Fork                     11 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Other                    11 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Python                   10 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Vue                      8 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+JavaScript               2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   36.64 % 
-Chrome                   17 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
-WeCom                    5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-PyCharm                  4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Sourcetree               2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Codex Vscode             18 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.64 % 
+Chrome                   17 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
+WeCom                    5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+PyCharm                  3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Sourcetree               2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🐱‍💻 Projects: 
-cw-publish               11 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-qiankun                  9 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-apollo                   8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-figma-mcp-bridge         7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-gitlab-reviewer          3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+cw-publish               10 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+qiankun                  9 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+codex-provider-sync locat9 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+figma-mcp-bridge         7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+apollo                   6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 
 💻 Operating System: 
-Mac                      47 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 55 mins (45.81%)
+⏱ AI Coding Time: 23 hrs 12 mins (48.35%)
 
-✍️ 8,317 lines written by AI, 1,212 lines written by hand (87.28% AI-written)
+✍️ 8,444 lines written by AI, 966 lines written by hand (89.73% AI-written)
 
-🔤 33,500,641 Input Tokens, 2,245,443 Output Tokens
+🔤 25,071,505 Input Tokens, 2,147,264 Output Tokens
 
-💵 $258.48 Estimated AI Cost This Week
+💵 $141.02 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 348 AI Prompts
+🧠 97 AI Sessions, 402 AI Prompts
 
-GPT                      8,940 lines         █████████████████████████   100.00 % 
+GPT                      9,066 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.28% of written lines came from AI
-📄 Detailed Prompter — average 1,095 characters per prompt
+🤖 AI-Driven — 89.73% of written lines came from AI
+📄 Detailed Prompter — average 1,084 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 14.64% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.94% of changed lines were hand-edited
 ```
 
 
