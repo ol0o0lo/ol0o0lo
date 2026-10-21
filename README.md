@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C111%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C115%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,6 +76,80 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                944 commits         █████████░░░░░░░░░░░░░░░░   37.30 % 
+🌃 Evening                883 commits         █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌙 Night                  478 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Tuesday                  345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Wednesday                176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Thursday                 275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Friday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Saturday                 605 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Sunday                   556 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    13 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Python                   10 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Vue                      8 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Fork                     5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+JavaScript               3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+
+🔥 Editors: 
+Chrome                   17 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.86 % 
+Codex Vscode             12 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+WeCom                    7 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+PyCharm                  5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Sourcetree               2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+
+🐱‍💻 Projects: 
+bk-lesscode              10 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+cw-publish               9 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+ppt-pilot                8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+codex-provider-sync locat5 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+figma-mcp-bridge         5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+
+💻 Operating System: 
+Mac                      45 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 31 mins (38.33%)
+
+✍️ 3,897 lines written by AI, 2,503 lines written by hand (60.89% AI-written)
+
+🔤 18,880,899 Input Tokens, 1,487,738 Output Tokens
+
+💵 $97.52 Estimated AI Cost This Week
+
+🧠 99 AI Sessions, 398 AI Prompts
+
+GPT                      4,368 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 60.89% of written lines came from AI
+📄 Detailed Prompter — average 855 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 79.3% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
