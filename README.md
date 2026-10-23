@@ -103,51 +103,50 @@ Sunday                   556 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   32.94 % 
-Python                   8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Fork                     7 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Vue                      5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JavaScript               3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Other                    15 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.22 % 
+Fork                     9 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Python                   7 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Vue                      4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+JavaScript               3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.02 % 
-Codex Vscode             10 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-WeCom                    7 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-PyCharm                  5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Sourcetree               2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Chrome                   15 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   35.97 % 
+Codex Vscode             10 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+WeCom                    8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+PyCharm                  6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Sourcetree               2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🐱‍💻 Projects: 
-figma-mcp-bridge         9 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-bk-lesscode              9 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-cw-publish               9 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-ppt-pilot                8 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-tsf-simple-demo          4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+figma-mcp-bridge         14 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   33.19 % 
+cw-publish               8 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+ppt-pilot                8 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+tsf-simple-demo          4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+bk-lesscode              3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 💻 Operating System: 
-Mac                      43 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 44 mins (34.11%)
+⏱ AI Coding Time: 14 hrs 58 mins (34.75%)
 
-✍️ 2,973 lines written by AI, 11,133 lines written by hand (21.08% AI-written)
+✍️ 2,224 lines written by AI, 11,165 lines written by hand (16.61% AI-written)
 
-🔤 16,866,535 Input Tokens, 1,351,774 Output Tokens
+🔤 15,801,599 Input Tokens, 1,287,432 Output Tokens
 
-💵 $86.08 Estimated AI Cost This Week
+💵 $82.42 Estimated AI Cost This Week
 
-🧠 81 AI Sessions, 331 AI Prompts
+🧠 74 AI Sessions, 334 AI Prompts
 
-GPT                      3,401 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,523 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.08% of written lines came from AI
-📄 Detailed Prompter — average 855 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 87.68% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 16.61% of written lines came from AI
+📄 Detailed Prompter — average 759 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 90.55% of changed lines were hand-edited
 ```
 
 
