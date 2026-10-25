@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C127%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C132%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,50 +103,50 @@ Sunday                   556 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Fork                     10 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Python                   9 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Vue                      8 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-JavaScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    15 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Fork                     10 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Vue                      9 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Python                   8 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+JavaScript               3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Chrome                   16 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   32.68 % 
-WeCom                    8 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-PyCharm                  6 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Sourcetree               2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Codex Vscode             21 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   40.45 % 
+Chrome                   15 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+WeCom                    8 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+PyCharm                  5 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sourcetree               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🐱‍💻 Projects: 
-figma-mcp-bridge         14 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-cw-publish               8 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-ppt-pilot                8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-iphone-use               6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-tsf-simple-demo          4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+figma-mcp-bridge         14 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+cw-publish               8 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+ppt-pilot                8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+iphone-use               6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+tsf-simple-demo          4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 💻 Operating System: 
-Mac                      51 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      54 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 30 mins (43.53%)
+⏱ AI Coding Time: 27 hrs 10 mins (50.3%)
 
-✍️ 14,946 lines written by AI, 11,165 lines written by hand (57.24% AI-written)
+✍️ 25,879 lines written by AI, 11,165 lines written by hand (69.86% AI-written)
 
-🔤 23,611,950 Input Tokens, 2,825,480 Output Tokens
+🔤 28,396,001 Input Tokens, 4,026,537 Output Tokens
 
-💵 $152.63 Estimated AI Cost This Week
+💵 $209.18 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 419 AI Prompts
+🧠 131 AI Sessions, 475 AI Prompts
 
-GPT                      15,567 lines        █████████████████████████   100.00 % 
+GPT                      26,812 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.24% of written lines came from AI
-📚 Verbose Prompter — average 1,502 characters per prompt
+🤖 AI-Driven — 69.86% of written lines came from AI
+📚 Verbose Prompter — average 1,822 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 60.82% of changed lines were hand-edited
+🚀 High AI Trust — 47.4% of changed lines were hand-edited
 ```
 
 
