@@ -103,50 +103,27 @@ Sunday                   577 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
-Vue                      2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Markdown                 1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Fork                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Env File                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Vue                      36 mins             ██████████████░░░░░░░░░░░   57.17 % 
+Other                    27 mins             ███████████░░░░░░░░░░░░░░   42.83 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.99 % 
-Codex Vscode             2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-PyCharm                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Spotify                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-WeCom                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Chrome                   36 mins             ██████████████░░░░░░░░░░░   57.17 % 
+Spotify                  14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+PyCharm                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+DockerDesktop            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Stickies                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-codex                    3 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
-figma-mcp-bridge         2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-WinSuperResolution       1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-cw-publish               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-html-and-markdown-preview22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+codex                    1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 33 mins (38.45%)
-
-✍️ 368 lines written by AI, 1 lines written by hand (99.73% AI-written)
-
-🔤 2,680,799 Input Tokens, 242,326 Output Tokens
-
-💵 $14.95 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 73 AI Prompts
-
-GPT                      368 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 865 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
