@@ -66,7 +66,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 229.1 kB Used in GitHub's Storage 
+> 📦 228.6 kB Used in GitHub's Storage 
  > 
 > 🏆 876 Contributions in the Year 2026
  > 
@@ -103,21 +103,16 @@ Sunday                   577 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      36 mins             ██████████████░░░░░░░░░░░   57.17 % 
-Other                    27 mins             ███████████░░░░░░░░░░░░░░   42.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   36 mins             ██████████████░░░░░░░░░░░   57.17 % 
-Spotify                  14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-PyCharm                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-DockerDesktop            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Stickies                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-codex                    1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
