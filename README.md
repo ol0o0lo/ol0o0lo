@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C185%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C188%20hrs%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,22 +103,50 @@ Sunday                   583 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Other                    9 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Markdown                 9 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+TypeScript               5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Vue                      5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  45 hrs 56 mins      █████████████████████░░░░   85.95 % 
+Chrome                   3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+WeCom                    1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Codex Vscode             1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Sourcetree               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+linkcloud-space          30 hrs 57 mins      ██████████████░░░░░░░░░░░   57.94 % 
+cw-publish               14 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+ada_atoms                6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+crac-amateur-radio-exam-q48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+app-mgmt                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      53 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 46 hrs 25 mins (86.86%)
+
+✍️ 17,879 lines written by AI, 44 lines written by hand (99.75% AI-written)
+
+🔤 36,920,655 Input Tokens, 4,454,446 Output Tokens
+
+💵 $289.90 Estimated AI Cost This Week
+
+🧠 163 AI Sessions, 562 AI Prompts
+
+GPT                      18,513 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.75% of written lines came from AI
+📚 Verbose Prompter — average 2,058 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 
