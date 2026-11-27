@@ -66,9 +66,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 230.4 kB Used in GitHub's Storage 
+> 📦 230.5 kB Used in GitHub's Storage 
  > 
-> 🏆 910 Contributions in the Year 2026
+> 🏆 913 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,21 +79,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-🌆 Daytime                969 commits         █████████░░░░░░░░░░░░░░░░   36.70 % 
-🌃 Evening                904 commits         █████████░░░░░░░░░░░░░░░░   34.24 % 
-🌙 Night                  498 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌞 Morning                269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+🌆 Daytime                969 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
+🌃 Evening                904 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌙 Night                  501 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Tuesday                  353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Wednesday                186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Thursday                 311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Friday                   279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Saturday                 617 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Sunday                   586 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Monday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Tuesday                  353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Wednesday                186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Thursday                 311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Friday                   279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Saturday                 620 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Sunday                   586 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
 ```
 
 
@@ -103,50 +103,50 @@ Sunday                   586 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   34.92 % 
-Vue                      10 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Fork                     9 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Python                   6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-JavaScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Other                    20 hrs 1 min        █████████░░░░░░░░░░░░░░░░   36.24 % 
+Fork                     12 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Vue                      9 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Python                   4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JavaScript               2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-Codex Vscode             20 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   38.63 % 
-Chrome                   15 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-WeCom                    8 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Sourcetree               4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-PyCharm                  3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Codex Vscode             19 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   35.45 % 
+Chrome                   17 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   32.51 % 
+WeCom                    8 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+PyCharm                  4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Sourcetree               3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 🐱‍💻 Projects: 
-CLIProxyAPI              12 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-cw-publish               9 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-magpie                   9 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-codex-provider-sync      5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-personal-access-tokens   4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+magpie                   15 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+CLIProxyAPI              9 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+cw-publish               9 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+personal-access-tokens   4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+codex-provider-sync      3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 💻 Operating System: 
-Mac                      53 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      55 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 57 mins (50.02%)
+⏱ AI Coding Time: 25 hrs 26 mins (46.05%)
 
-✍️ 5,341 lines written by AI, 243 lines written by hand (95.65% AI-written)
+✍️ 4,883 lines written by AI, 900 lines written by hand (84.44% AI-written)
 
-🔤 25,613,466 Input Tokens, 2,338,589 Output Tokens
+🔤 30,498,487 Input Tokens, 4,026,598 Output Tokens
 
-💵 $906.99 Estimated AI Cost This Week
+💵 $669.40 Estimated AI Cost This Week
 
-🧠 138 AI Sessions, 546 AI Prompts
+🧠 128 AI Sessions, 541 AI Prompts
 
-GPT                      6,847 lines         █████████████████████████   100.00 % 
+GPT                      6,073 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.65% of written lines came from AI
-📄 Detailed Prompter — average 1,415 characters per prompt
+🤖 AI-Driven — 84.44% of written lines came from AI
+📄 Detailed Prompter — average 1,363 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.02% of changed lines were hand-edited
+🚀 High AI Trust — 13.82% of changed lines were hand-edited
 ```
 
 
